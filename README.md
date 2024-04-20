@@ -3,6 +3,6 @@
 <h1> </h1>
 <b> <br> Technologies Used :- </b></br>
 
-<br> Spring Boot </br>
-<br> Spring Web </br>
-<br> Spring JPA </br>
+<br> * Spring Boot </br>
+<br> * Spring Web </br>
+<br> * Spring JPA </br>
